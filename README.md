@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
