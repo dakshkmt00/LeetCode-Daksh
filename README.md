@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -33,6 +34,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
