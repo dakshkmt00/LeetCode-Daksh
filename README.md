@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
+| [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0160-intersection-of-two-linked-lists) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
