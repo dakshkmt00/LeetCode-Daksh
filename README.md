@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0836-rectangle-overlap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
