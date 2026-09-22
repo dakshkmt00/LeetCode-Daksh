@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
+| [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 ## Geometry
 |  |
 | ------- |
