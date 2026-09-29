@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0509-fibonacci-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
