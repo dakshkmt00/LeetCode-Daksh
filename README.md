@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
