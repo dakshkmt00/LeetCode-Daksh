@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0142-linked-list-cycle-ii) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 ## Geometry
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
