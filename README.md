@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
