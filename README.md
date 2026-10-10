@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
 ## Rolling Hash
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
