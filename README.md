@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 ## Geometry
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
