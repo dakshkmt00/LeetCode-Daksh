@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0125-valid-palindrome) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0214-shortest-palindrome) |
 ## Monotonic Stack
 |  |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0145-binary-tree-postorder-traversal) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
