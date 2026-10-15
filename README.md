@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
