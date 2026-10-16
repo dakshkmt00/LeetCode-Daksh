@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
