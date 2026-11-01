@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
 ## Rolling Hash
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Matrix
 |  |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0700-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
