@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
 ## Geometry
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
