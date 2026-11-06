@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dakshkmt00/LeetCode-Daksh/tree/master/0875-koko-eating-bananas) |
 ## Rolling Hash
 |  |
 | ------- |
